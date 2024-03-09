@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://your-solution-url.com)
+- Live Site URL: [Live site URL](https://your-live-site-url.com)
 
 ## My process
 
@@ -37,7 +37,6 @@ This challenfge has helped refresh my knowledge
 I also get to import font using '@font-face
 Also, linking favicon 
 
-To see how you can add code snippets, see below:
 
 ```css
 @font-face {
