@@ -1,24 +1,18 @@
-*{
-    margin: 0;
-    padding: 0;
-    margin: auto;
-
-}
 @font-face {
     font-family: outfit;
     src: url(https://fonts.google.com/specimen/outfit);
 }
 body{
     background-color: hsl(212, 45%, 89%);
-    padding-top: 7%;
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
 }
 .qr_code{
     background-color: hsl(0, 0%, 100%);
-    margin: aut;
     width: 230px;
     height: 360px;
     text-align: center;
-    /*padding: 3px;*/
     border-radius: 10px;
 }
 .qr_code p{
@@ -49,6 +43,6 @@ body{
 
 .attribution{
     padding-top: 30px;
-    text-align: center;
+    /* text-align: center; */
     font-size: 8px;
 }
